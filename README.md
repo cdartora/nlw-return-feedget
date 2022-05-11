@@ -2,7 +2,7 @@
 FeedGet é um widget de feedbacks feito em React. Nele pode-se enviar 3 tipos diferentes de feedback, adicionar um comentário e enviar uma screenshot de maneira automática e acessível. A aplicação envia relatório de todos os feedbacks por e-mail.
 
 ## Tecnologias
----
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Vite
@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Headless UI
 
 ## Como executar
----
+
 Clone o projeto e acesse a pasta do mesmo.
 
 ```
@@ -25,7 +25,7 @@ $ cd nlw-return-feedget
 Para iniciá-lo, siga os passos abaixo:
 
 ## Iniciar o projeto
----
+
 ### Web
 ```
 # entrar no diretório do front-end
