@@ -14,7 +14,7 @@ model Feedback {
   id         String  @id @default(uuid())
   type       String
   comment    String
-  screenshot String? @db.LongText
+  screenshot String? @db.VarChar(10000)
 
   @@map("feedbacks")
 }
